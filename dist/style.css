@@ -1,0 +1,8 @@
+body{
+display: grid;
+}
+h1{
+    color: pink;
+    font-size: 30px;
+    text-align: center;
+}
