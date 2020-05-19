@@ -5,4 +5,8 @@ h1{
     color: pink;
     font-size: 30px;
     text-align: center;
+    cursor: pointer;
+}
+h1:active{
+    font-size: 60px;
 }
